@@ -169,11 +169,7 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
 
-**Your Name**  
-Data Analyst | Public Policy Researcher  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
 
 ## Acknowledgments
 
